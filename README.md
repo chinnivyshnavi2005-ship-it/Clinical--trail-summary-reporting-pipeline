@@ -82,7 +82,10 @@ After a successful run, download from `output/`:
 - `table_14_1_1.pdf` — Demographics table, one landscape page
 - `table_14_3_1.pdf` — AE summary table, one landscape page
 - `figure_14_3_2.png` — ALT trend chart
+### ALT Trend Figure
 
+The figure below shows the mean change from baseline in ALT (U/L) by visit.
+![ALT trend](output/figure_14_3_2.png)
 ---
 
 ## Skills demonstrated
